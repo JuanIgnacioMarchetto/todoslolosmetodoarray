@@ -215,6 +215,8 @@ console.log(Array.isArray(names));*/
 
 
 //from() 
+
+
 let numeros = [1, 2, 3, 4, 5];
 
 let numerosMultiplicadosPor2 = Array.from(numeros, (n) => n * 2);
