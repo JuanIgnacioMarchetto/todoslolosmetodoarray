@@ -181,6 +181,112 @@ en caso q no se cumpla una condicion, if permite agregar una condicion else q in
 }
 */
 
+//var aprobe = true;
+/*
+var aprobe = false;
+if(aprobe==true){
+    console.log("puedo salir¡¡")
+}
+else{console.log("tengo que estudiar")};*/
+
+//switch
+
+/* la estructura switch permite multiples caminos a partir de la evaluacion de una sola condicion.
+
+var color = prompt("escribi un color primario")
+switch(color){
+    case"rojo":
+    console.log ("color rojo");
+    breack;
+
+     case"azul":
+    console.log ("color azul");
+    breack;
+
+     case"amarillo":
+    console.log ("color amarillo");
+    breack;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
