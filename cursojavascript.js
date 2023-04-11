@@ -206,7 +206,6 @@ switch(color){
      case"amarillo":
     console.log ("color amarillo");
     breack;
-
 }
 
 
