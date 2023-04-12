@@ -191,8 +191,8 @@ else{console.log("tengo que estudiar")};*/
 
 //switch
 
-/* la estructura switch permite multiples caminos a partir de la evaluacion de una sola condicion.
-
+// la estructura switch permite multiples caminos a partir de la evaluacion de una sola condicion.
+/*
 var color = prompt("escribi un color primario")
 switch(color){
     case"rojo":
@@ -207,6 +207,7 @@ switch(color){
     console.log ("color amarillo");
     breack;
 }
+*/
 
 
 
