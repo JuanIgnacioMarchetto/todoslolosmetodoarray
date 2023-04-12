@@ -26,7 +26,7 @@ var contador = numero;
 while(contador <= 10){
     console.log("vuelta n° "+contador);
     contador ++;};*/
-
+/*
     var numero =prompt("ingresa un numero")
     var contador=numero;
     
@@ -35,7 +35,7 @@ while(contador <= 10){
         
         document.write("<h1>vuelta n°</h1>"+contador);
         contador ++;
-    }
+    }*/
 
 
 
