@@ -11,3 +11,4 @@ modificacion de la variable(se ejecuta al final de cada iteracion).
 for (var i=1;i<10; i++){
     console.log("vuelta numero " + i)
 };
+
